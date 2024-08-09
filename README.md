@@ -24,5 +24,7 @@ publishers or the genre with the highest sales values.
 ## Project Deliverables
 
 a.   Summary stats on a number of variables.
+
 b.   Visualizations
+
 c.   Final Presentation
